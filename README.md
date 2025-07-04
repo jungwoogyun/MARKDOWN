@@ -68,7 +68,7 @@ HELLO WORLD<br>
 # 링크(바로가기)
 
 [네이버](https://naver.com)<br>
-<a href="https://namu.wiki/w/HTML" target="_blank">새탭 열고 이동</a>
+<a href="./a.md" target="_blank">새탭 열고 이동</a>
 
 
 
